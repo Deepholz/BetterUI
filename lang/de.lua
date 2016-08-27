@@ -1,14 +1,14 @@
 ZO_CreateStringId("SI_BUI_INV_ITEM_ALL","|cFF6600Alle|r")
-ZO_CreateStringId("SI_BUI_INV_ITEM_MATERIALS","Vorr\195\164e")
+ZO_CreateStringId("SI_BUI_INV_ITEM_MATERIALS","Vorräe")
 ZO_CreateStringId("SI_BUI_INV_ITEM_QUICKSLOT","|cFF6600Schnellzugriff|r")
 ZO_CreateStringId("SI_BUI_INV_ITEM_WEAPONS","Waffen")
-ZO_CreateStringId("SI_BUI_INV_ITEM_APPAREL","R\195\188tung")
-ZO_CreateStringId("SI_BUI_INV_ITEM_CONSUMABLE","Verbrauchs\195\188ter")
+ZO_CreateStringId("SI_BUI_INV_ITEM_APPAREL","Rüstung")
+ZO_CreateStringId("SI_BUI_INV_ITEM_CONSUMABLE","Verbrauchsgüter")
 ZO_CreateStringId("SI_BUI_INV_ITEM_MISC","Plunder")
 ZO_CreateStringId("SI_BUI_INV_ITEM_JUNK","Nutzloses")
 
 ZO_CreateStringId("SI_BUI_INV_EQUIPSLOT_TITLE","Gegenstand anlegen...")
-ZO_CreateStringId("SI_BUI_INV_EQUIPSLOT_PROMPT","Welchem <<1>> Waffenset diese Waffe hinzuf\195\188gen?")
+ZO_CreateStringId("SI_BUI_INV_EQUIPSLOT_PROMPT","Welchem <<1>> Waffenset diese Waffe hinzufügen?")
 ZO_CreateStringId("SI_BUI_INV_EQUIPSLOT_MAIN","Set 1")
 ZO_CreateStringId("SI_BUI_INV_EQUIPSLOT_OFF","Set 2")
 
