@@ -1,5 +1,5 @@
 ZO_CreateStringId("SI_BUI_INV_ITEM_ALL","|cFF6600Alle|r")
-ZO_CreateStringId("SI_BUI_INV_ITEM_MATERIALS","Vorräe")
+ZO_CreateStringId("SI_BUI_INV_ITEM_MATERIALS","Vorräte")
 ZO_CreateStringId("SI_BUI_INV_ITEM_QUICKSLOT","|cFF6600Schnellzugriff|r")
 ZO_CreateStringId("SI_BUI_INV_ITEM_WEAPONS","Waffen")
 ZO_CreateStringId("SI_BUI_INV_ITEM_APPAREL","Rüstung")
